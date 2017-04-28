@@ -1,0 +1,1 @@
+# cool-erase-backround-function
